@@ -1,0 +1,307 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OksTuiCBSvM5pn44FeVZbAj10vo=
+SHA256-Digest: TV+rnllg+sUUIZ8bejSCzC8vfHinu95VteBxIqS5Hss=
+
+Name: index.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: W/IK2AezHLKcrVG4xLRXRu7uHJk=
+SHA256-Digest: qdqukzVVOCD28w1lUoFKzxx4fePi4jZu34chS7vW/fg=
+
+Name: css/nighttab.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: fqqAaq+sPY4KHfqA8AyM60EkZdc=
+SHA256-Digest: 8itx7GOi/IYpYUH2u3DwRTtKIBrjguAjzytnnp0ehhI=
+
+Name: fonts/fa/fa-regular-400.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JguwGs1E2I3Lf1AaI4q5aPhr754=
+SHA256-Digest: aoyOnh5/aSwhrxlW3hY/PQJneOZEn+k6CaZxhHyhrmU=
+
+Name: fonts/fa/fa-regular-400.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hGnLPZyBif6mT2Cu8nU1CddwuN8=
+SHA256-Digest: ji2WGYcRtjdS5fL1mHuP/FNt9hVqBlvb4oy3IxyteT0=
+
+Name: fonts/fa/fa-regular-400.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ypnw4yV19z2NiX+HzomYJ/meIP4=
+SHA256-Digest: AfRBb121ni3WtvvZ3DIzbZnbGPfrYjpJ9YTQSv0nlHM=
+
+Name: fonts/fa/fa-regular-400.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: APVp99isJJekOyXcTTsyITvOoxs=
+SHA256-Digest: 8yuUopBg3+wMeXod/hETV+sdaC8aykrEuVzw9MPiv6k=
+
+Name: fonts/fa/fa-brands-400.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UJmIR32nnBRsuT+3KEBfGOkjwt4=
+SHA256-Digest: XZGQKSrN1Iug/DUID350SPPN8NeRmaTSPw9JtTQf3yk=
+
+Name: fonts/fa/fa-solid-900.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: daiIFcR6JJ6ttfDtwWdZV/hgzKc=
+SHA256-Digest: f00/0KcF2/hAMpiq2R1d5pcua11TYGjrqLJJVKWgqMc=
+
+Name: fonts/fa/fa-brands-400.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hDZ4jnZnnASFtiyA63USxsLjTog=
+SHA256-Digest: 6DbF1d/BPhgXDFvd77T9rHxlrArUOktDGs3EqYhlomA=
+
+Name: fonts/fa/fa-solid-900.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FcUiCQks4PtyEOQOKgGsyLSlxJQ=
+SHA256-Digest: NS+OrSgEGd2VPSvHhDOGu5Qw6BUsLb0sLSSU9rlWfuc=
+
+Name: fonts/fa/fa-brands-400.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oX2ypaNVvv0Im7bn1Tw9UBv56Cc=
+SHA256-Digest: gR4VdxhAZhCM7KhtWmJKkBIwPfUgbFywsn1eP+3LpaM=
+
+Name: fonts/fa/fa-brands-400.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Zshu39E+Y+Dpgc6FMzXCi8LSDOw=
+SHA256-Digest: oMFFOCrP5Zdn0Uh9ZQXzSWZbaFwohc2RtiHRQaKSsPg=
+
+Name: fonts/fa/fa-solid-900.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: W+WUShfosyWJoS/cK4qFcMkIHbQ=
+SHA256-Digest: MlAXJ7sj/HdhWx7Ha18pjsIhmMDz1qPn1v5Kw88xXbk=
+
+Name: fonts/fa/fa-solid-900.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /483360QV5a9kk0NsNN6T/JSYYw=
+SHA256-Digest: Ix1ozvvGhG+3jK/KhGdAGk83HiJkGGYuiQDj1SrcAKs=
+
+Name: fonts/fjalla-one/fjalla-one-400.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hLbWl7M+v73H54ktG1H+w8w69ks=
+SHA256-Digest: 2pspytNWZq0131T8ch/40IOGYGQEVhhahlIebFBrgc0=
+
+Name: fonts/fjalla-one/fjalla-one-400.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +UhPZkL5fFEFM5fg7fwrPeK01rM=
+SHA256-Digest: /l8qQEIumlUYezIEFhy84bodA6LrT6lxvRBFFWL+2Zo=
+
+Name: fonts/fjalla-one/fjalla-one-400.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GyxgyAZuOB2MGiPdcES/7NHjDrk=
+SHA256-Digest: D8pq+OCoEKUWD28LHLi4kSJ7Q+/tlPG6JuwlxTdnMQs=
+
+Name: fonts/icons/icons.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cetpZiTHWZ6fkqsuY+iHMTW+yy8=
+SHA256-Digest: Rz+VNKEws2rQ3mowvlM8w29s6LAJAja6MIdY8FaICfk=
+
+Name: fonts/icons/icons.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7QmHp4+O1tYzpNZ3DsSFxYjZyBg=
+SHA256-Digest: ZwgIBj/azXJgZM7R0XP6umVvBB/PViAhME8l13aNEMc=
+
+Name: fonts/icons/icons.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: t7PrrY720tY4J+v/b3OnlaPVZpk=
+SHA256-Digest: eb+0rhl5cGJDiNsjKJxki82fRM0N1Jd7nXIvAFzV16A=
+
+Name: fonts/icons/icons.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ftK5DtPg0XOIklXGZoDNGWk7sdg=
+SHA256-Digest: J14cAB68UD5SRER5/RcZtsJzyZ7hAV5lOiJb3kxqhtY=
+
+Name: fonts/icons/icons.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uGdCi6fHN5u88u5/3v95lMxhGE0=
+SHA256-Digest: IpGa3FQVhdxOto/ihla1gq9+GAmkauBLl/TTuwYpkOY=
+
+Name: fonts/open-sans/open-sans-300.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x6mkxC09hPESlAZFq9QWpZ63HIk=
+SHA256-Digest: 9nfuLYLfsR8IF19nPPPwZbDV5JG0SF4BJZpJJxXHRuI=
+
+Name: fonts/open-sans/open-sans-400.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YA25N05H5Pc6WczAqZvMQvSj4Co=
+SHA256-Digest: nFCpbIWbm+6ke3F0C9FOf2mk31htAV9HQ0A3+N71O1I=
+
+Name: fonts/open-sans/open-sans-600.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: D9nyn6o4apyN4yj3mdJpiUjtPSU=
+SHA256-Digest: FJHeGzEYLThZO89mDJm8YBivjhktkWY/Z+ydBFo7XMw=
+
+Name: fonts/open-sans/open-sans-700.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Akljh6X3v3t531LHt27OTrx6BxA=
+SHA256-Digest: dCAaS5fsHV6GJS3QGA6v2MU3ipI1hk281oLzV1tByFs=
+
+Name: fonts/open-sans/open-sans-800.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ww8rj+yyxm+J5Vyk6K/lax8dbFg=
+SHA256-Digest: ddtpWSM3KAUp/cZEgYWxy4ilDb6bSYcY9FulKQfoq6M=
+
+Name: fonts/open-sans/open-sans-italic-300.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tZKtDAjSYL3RgVzIFRr36mmqxNo=
+SHA256-Digest: RT5uspPGuJvuHhrDV4C2Bh2SuRr14znVdGD8m8Iw5ng=
+
+Name: fonts/open-sans/open-sans-italic-400.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uQiwHM9Hjgpy+Mb7z9XDGmxhujY=
+SHA256-Digest: 2kB6FbHqDBtLt3S9d7tgjWsckDl7WnW4iVu8z9pf62M=
+
+Name: fonts/open-sans/open-sans-italic-600.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: grrQPSCophqkBp58S7824QB1kes=
+SHA256-Digest: EIeckNZ1YjlU0wj6jTSrA4yRVkaqQWd2T9i7AoBMu/k=
+
+Name: fonts/open-sans/open-sans-italic-700.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jgcWxwI/yAxl6ZnZUGYDWV1BBok=
+SHA256-Digest: 2FBVRHWkM2QZrnSF1jgRUdB2ptsDKXXxkxl6+fx3WvI=
+
+Name: fonts/open-sans/open-sans-italic-800.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TE+wxLuEMgFafQVz4IMWqeT0CT8=
+SHA256-Digest: SVEv1EyVKEjdAGpDGTNKfq/RQPkqaAga7CsTZzul9Kc=
+
+Name: fonts/open-sans/open-sans-300.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1VV0UkNFky2zloxnXhrqCMaKRW8=
+SHA256-Digest: booooGOMkg5bdhd+XwO6lPze3T4+zTR8Mz2Ch2tRycA=
+
+Name: fonts/open-sans/open-sans-400.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gDOhKFBPERRep5HkgePPedzSkOI=
+SHA256-Digest: gfDsJ3liJeop+fHHt08IPtzXvJegnV/E6NA8ATTmJEU=
+
+Name: fonts/open-sans/open-sans-600.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Kpd3r8B78LtLtI8jPtfEvL22B2A=
+SHA256-Digest: V8eTdbFBnuHZhPRDzad8BLmzjAvlMwstQdZRAxFf/XI=
+
+Name: fonts/open-sans/open-sans-700.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7oZCxPrjJbtGDsKcDCya2KTHgX0=
+SHA256-Digest: 6iDl2zupFcUDFz+uJoRF/CdF/Jpdzi9Y1H9aNV4c2xg=
+
+Name: fonts/open-sans/open-sans-800.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: B3RM/na4w3CWRDprzD+9BPk60Fs=
+SHA256-Digest: NetxTUVHn+NVhlE8fTcs7Qrj4m6wWIOVC+omacboAqo=
+
+Name: fonts/open-sans/open-sans-italic-300.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UeMCMUC+QH/V+/0n4KXSwwrmbzE=
+SHA256-Digest: W7B0EJlMFNYPcs4/bhmxcvzXvFFfm66vH3TGzCIW6Go=
+
+Name: fonts/open-sans/open-sans-italic-400.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5cWZnWr0hpvGDuqS0ajDKPsOE3g=
+SHA256-Digest: OexJOlpoioW2Ch6ImiLPuT8jyQDg/cC+irhUPcnap4M=
+
+Name: fonts/open-sans/open-sans-italic-600.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4q71b1d9u3glQGa3PC0PvjC0CuA=
+SHA256-Digest: u4eDiSnBXh0KBWk8N1MjuVtrRpD+IH02OeOkMsRK7zU=
+
+Name: fonts/open-sans/open-sans-italic-700.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 87qjPphuwQ1vDIIRqCYkJEHVLMc=
+SHA256-Digest: HnQlidkaS344iChKQ6c2dfMS09bE54s7duvDYpJkYQA=
+
+Name: fonts/open-sans/open-sans-italic-800.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x+WckvTYORJ2+wo6VVKM85ZUeOc=
+SHA256-Digest: SbYnS8y1xrMeIM67IT2WGXtSKx+5yVuGSaBibttb2dg=
+
+Name: fonts/open-sans/open-sans-300.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: LIlzB+5yLy33EWLXdgkk9lzTM9A=
+SHA256-Digest: 2/Vnq4Lu/yZnZ4fjF+aLEddUayrFdUPDTm02Ofrt0vM=
+
+Name: fonts/open-sans/open-sans-400.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ERZhHXnxtxk2uJh7wco9beXpnxQ=
+SHA256-Digest: VmnKAzq2hiXAyua88auyciwC6kOg1lMjsvewI8evo14=
+
+Name: fonts/open-sans/open-sans-600.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: unclqd5hs6Myc7/sPVrPmK66E/E=
+SHA256-Digest: I/6gqYdpSkh9XgUzRcYQtsKwzuWUPmxU3/qMTTuMKic=
+
+Name: fonts/open-sans/open-sans-700.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wHu/ldu3UumURmK0fNIuUru5efY=
+SHA256-Digest: 1/i+ma7kZEXvzHxJFFOI3spZ8N/Rg+1LOJLKERwrQBo=
+
+Name: fonts/open-sans/open-sans-800.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MebmeRz3T75DxFezZMwDgrhn+Es=
+SHA256-Digest: 2texwreigMu+pOH3xjVeHMPzU2ncCI7iYxjm8Ufx4I4=
+
+Name: fonts/open-sans/open-sans-italic-300.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eSkR5lZScN+UeH3AKnc6qyA4Os4=
+SHA256-Digest: hP7O4t+Hn0jbTG4HJKfs9v3/Wg5F571xE5cp4O1ZUVA=
+
+Name: fonts/open-sans/open-sans-italic-400.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +Y+xizGciHaFfOXEjA8JbukOxMg=
+SHA256-Digest: Yf3JstZ6paWtB+W6zOshwioMe//OP0xB7tdaHg2ExUU=
+
+Name: fonts/open-sans/open-sans-italic-600.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VbFuLflqZCbwCZxVnuW5Srn4dKA=
+SHA256-Digest: CWtnBpOFOtfJgwzBYp6IUHKtzv5sTPVrnAsFzlewyhY=
+
+Name: fonts/open-sans/open-sans-italic-700.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wYsNKaYsXaUtby7w6btOJhb1q3w=
+SHA256-Digest: Jjd4ZYU1+BhzfdGGWXmFrHFVN8Av4paaWBEoHi3FC1w=
+
+Name: fonts/open-sans/open-sans-italic-800.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Y320PcId3TRbkWFhbVxro8mg+Ec=
+SHA256-Digest: JJzvbFGZwgsTlBEoYFJ5z7UhDz7ARps6x10rvnZeHkc=
+
+Name: icons/icon-128.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7Zr1vkN33f5ZBTh83bVwWGJO968=
+SHA256-Digest: lL7geIr5+yWoreau+4rUpJLFrS+/ERG5+glyOliLhbk=
+
+Name: icons/icon-16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XCCmREZR+itJqtIh8nJ0P90nyfE=
+SHA256-Digest: QkOl90NiNV/KLmjSc5JTed3X6wHxexxWRExFfI9MmQ4=
+
+Name: icons/icon-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NRC9l4fc4Rs7n8fOwGNzL1ivP9A=
+SHA256-Digest: lxeKYLyllqWZ5EocAiaSgxb1vHJW8WE3dH1cpTXEB/k=
+
+Name: js/initial-background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Mg3GT5gOB5wAlzeMreWN3uoMem4=
+SHA256-Digest: WqB392MASEN1R3C0gBKgg2qHwbP06IxTcA583Qseo1Y=
+
+Name: js/nighttab.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Neun1ZFnnCpXqSXtJiQXrEuJSKk=
+SHA256-Digest: eiFZXmW2GfXoBtF3BCoKexQK/Tu46sQgJ4PGWCACPiU=
+
+Name: js/nighttab.min.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3yM3ZrrcdqCjgwYxWPg9Y+qURic=
+SHA256-Digest: yyszkIsrJ2UCBSwc091LPCoaJoP9Dc5zijJcWYvJkO8=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ms2n9WyTTHRLh8bL9JUhhWc1Slw=
+SHA256-Digest: Ny0OA/evvKBDpTLrfzXwfrmoyx7sQegnOPwqdy0G4ow=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: evTzIYf7nqrXA4Bhd7t/3HO9u08=
+SHA256-Digest: abnpEjOk3vt2yPiSz+bg33M0bdcUWQt7xIEpz7fSOK4=
+
